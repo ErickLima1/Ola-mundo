@@ -1,2 +1,4 @@
-# Ola mundo
- Um Repositorio De Teste(Curso de Git e Github)
+# Olá, Mundo!
+ Um Repositório De Teste(Curso de Git e Github)
+
+ Repositório Criado Durante Uma Aula Ao Vivo!
